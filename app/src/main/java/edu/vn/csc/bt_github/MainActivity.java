@@ -16,4 +16,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onRestart() {
         super.onRestart();
     }
+    
+        protected void onStart() {
+        super.onStart();
+    }
+    
 }
